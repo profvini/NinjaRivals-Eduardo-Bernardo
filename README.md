@@ -31,10 +31,10 @@ Devido ao fato de o projeto já ter sido iniciado previamente, alguns aspectos j
 
 * Iniciado o sistema de waves.
 * Cooldown do ataque do player <br/>
-Sincronização completa:
-* Players
-* Ataques
-* Animações
+* Sincronização completa:
+	* Players
+	* Ataques
+	* Animações
 
 
 
