@@ -31,7 +31,7 @@ Repositório destinado às entregas e requerimentos propostos na disciplina de M
 
 * Iniciado o sistema de waves.
 * Cooldown do ataque do player
-Sincronização completa:
+//Sincronização completa:
 * Players
 * Ataques
 * Animações
