@@ -30,19 +30,20 @@ Repositório destinado às entregas e requerimentos propostos na disciplina de M
 
 * Iniciado o sistema de waves.
 * Cooldown do ataque do player <br/>
-* Sincronização completa:
+* Sincronização completa e funcional:
 	* Players
 	* Ataques
 	* Animações
+	* Inimigos
 
 
 
 ## CheckPoint 4 - 30/11
 * Waves completamente implementadas e com características programáveis:
 	* Quantidade de inimigos.
-	* Tipos dos inimigos
-	* Tempo de duração da wave
-* Novos inimigos, com animações movimentação e path finding:
-	* Skeleton 	
-	* Gold Knight
-	* Dark Ninja
+	* Tipos dos inimigos.
+	* Tempo de duração da wave.
+* Novos inimigos, com animações, movimentação e path finding:
+	* Skeleton.
+	* Gold Knight.
+	* Dark Ninja.
