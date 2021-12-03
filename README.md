@@ -3,8 +3,7 @@ Repositório destinado às entregas e requerimentos propostos na disciplina de M
 
 ## Autores: Bernardo Pereira e Eduardo Rodrigues
 
-## CheckPoint 1 - Concept
-
+## CheckPoint 1 - 09/11
 * O projeto consiste em um jogo multiplayer pixel art 2D, em visão top-down. 
 * O projeto vem sendo desenvolvido desde o começo do semestre (2/2021) para a disciplina de Laboratório de Software e Projetos como um jogo Singleplayer estilo The Legend Of Zelda. Porém, ao ser incluído no projeto final de Jogos Multiplayer foram feitas alterações (descritas abaixo) para se encaixar nos critérios desta disciplina.
 * O jogo será focado na interação entre os players utilizando o estilo party onde dois ninjas dividem o mesmo mapa, cada um de um lado.  
@@ -15,7 +14,7 @@ Repositório destinado às entregas e requerimentos propostos na disciplina de M
 	- Assets de arte
 	
 
-## CheckPoint 2 - Mecânicas
+## CheckPoint 2 - 16/11
 
 * Foram revistas as determinações do projeto.
 * Para se encaixar na proposta multiplayer foi alterado o estilo de gameplay para party, buscando tanto uma interação divertida entre os players (como em muitos jogos da Nintendo) quanto um distanciamento dos comuns jogos de PvP em que os players simplesmente batalham entre si.
@@ -27,7 +26,7 @@ Repositório destinado às entregas e requerimentos propostos na disciplina de M
 * Implementou-se um inimigo - cactus - com movimentação, path finding e animações para testagem inicial das mecânicas, sem as funções de dano.
 
 
-## CheckPoint 3 - Infra
+## CheckPoint 3 - 23/11
 
 * Iniciado o sistema de waves.
 * Cooldown do ataque do player <br/>
@@ -38,6 +37,6 @@ Repositório destinado às entregas e requerimentos propostos na disciplina de M
 
 
 
-## CheckPoint 4 - Testes
+## CheckPoint 4 - 30/11
 * Waves completamente implementadas
 * Serão waves programáveis quanto à quantidade e ao tipo dos inimigos.
