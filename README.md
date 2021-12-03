@@ -12,6 +12,7 @@ Repositório destinado às entregas e requerimentos propostos na disciplina de M
 - Player com movimentação
 - Arma do player
 - Animações do player e de ataque.
+- Assets de arte
 	
 
 ## CheckPoint 2 - Mecânicas
