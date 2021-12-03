@@ -47,3 +47,4 @@ Repositório destinado às entregas e requerimentos propostos na disciplina de M
 	* Skeleton.
 	* Gold Knight.
 	* Dark Ninja.
+* Implementação do dano do player
