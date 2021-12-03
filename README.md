@@ -5,9 +5,9 @@ Repositório destinado às entregas e requerimentos propostos na disciplina de M
 
 ## Concept
 
-	* O projeto consiste em um jogo multiplayer pixel art 2D, em visão top-down. O jogo será focado na interação entre os players utilizando o estilo party onde dois ninjas dividem o mesmo mapa, cada um de um lado.  
+* O projeto consiste em um jogo multiplayer pixel art 2D, em visão top-down. O jogo será focado na interação entre os players utilizando o estilo party onde dois ninjas dividem o mesmo mapa, cada um de um lado.  
 	
-	* O projeto vem sendo desenvolvido desde o começo do semestre (2/2021) para a disciplina de Laboratório de Software e Projetos como um jogo Singleplayer estilo The Legend Of Zelda. Porém, ao ser incluído no projeto final de Jogos Multiplayer foram feitas alterações (descritas abaixo) para se encaixar nos critérios desta disciplina.	
+* O projeto vem sendo desenvolvido desde o começo do semestre (2/2021) para a disciplina de Laboratório de Software e Projetos como um jogo Singleplayer estilo The Legend Of Zelda. Porém, ao ser incluído no projeto final de Jogos Multiplayer foram feitas alterações (descritas abaixo) para se encaixar nos critérios desta disciplina.	
 	
 
 ## Mecânicas
