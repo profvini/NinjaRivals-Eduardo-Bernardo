@@ -30,7 +30,7 @@ Devido ao fato de o projeto já ter sido iniciado previamente, alguns aspectos j
 ## CheckPoint 3 - Infra
 
 * Iniciado o sistema de waves.
-* Cooldown do ataque do player
+* Cooldown do ataque do player <br/>
 Sincronização completa:
 * Players
 * Ataques
