@@ -29,7 +29,10 @@ Repositório destinado às entregas e requerimentos propostos na disciplina de M
 
 ## CheckPoint 3 - Infra
 
-
+* Iniciado o sistema de waves.
+* Serão waves programáveis quanto à quantidade e ao tipo dos inimigos.
+* Cooldown do ataque do player
+* 
 
 
 
