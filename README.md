@@ -38,5 +38,11 @@ Repositório destinado às entregas e requerimentos propostos na disciplina de M
 
 
 ## CheckPoint 4 - 30/11
-* Waves completamente implementadas
-* Serão waves programáveis quanto à quantidade e ao tipo dos inimigos.
+* Waves completamente implementadas e com características programáveis:
+	* Quantidade de inimigos.
+	* Tipos dos inimigos
+	* Tempo de duração da wave
+* Novos inimigos, com animações movimentação e path finding:
+	* Skeleton 	
+	* Gold Knight
+	* Dark Ninja
