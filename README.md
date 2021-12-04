@@ -17,10 +17,10 @@ Repositório destinado às entregas e requerimentos propostos na disciplina de M
 ## CheckPoint 2 - 16/11
 
 * Foram revistas as determinações do projeto.
-* Para se encaixar na proposta multiplayer foi alterado o estilo de gameplay para party, buscando tanto uma interação divertida entre os players (como em muitos jogos da Nintendo) quanto um distanciamento dos comuns jogos de PvP em que os players simplesmente batalham entre si.
-* Para alcançar essa proposta foi definida uma gameplay baseada em hordas onde um ninja consegue interferir na gameplay do outro ao mesmo tempo em que acumula pontos para si. Tudo isso contribui para que seja incentivada uma competição divertida entre ambos.
-* No decorrer da partida, surgirão hordas de monstros simultaneamente, uma para cada ninja e o os player deverão derrotá-las para sobreviver.
-* Ao matá-los, haverá uma chance de dropar um item que, ao ser coletado, causará um efeito negativo (debuff) ao outro ninja, dificultando a luta contra a sua horda. Além disso, os monstros darão uma pontuação aos players que ao final da partida poderá ser convertida na criptomoeda do jogo.
+	* Para se encaixar na proposta multiplayer foi alterado o estilo de gameplay para party, buscando tanto uma interação divertida entre os players (como em muitos jogos da Nintendo) quanto um distanciamento dos comuns jogos de PvP em que os players simplesmente batalham entre si.
+	* Para alcançar essa proposta foi definida uma gameplay baseada em hordas onde um ninja consegue interferir na gameplay do outro ao mesmo tempo em que acumula pontos para si. Tudo isso contribui para que seja incentivada uma competição divertida entre ambos.
+	* No decorrer da partida, surgirão hordas de monstros simultaneamente, uma para cada ninja e o os player deverão derrotá-las para sobreviver.
+	* Ao matá-los, haverá uma chance de dropar um item que, ao ser coletado, causará um efeito negativo (debuff) ao outro ninja, dificultando a luta contra a sua horda. Além disso, os monstros darão uma pontuação aos players que ao final da partida poderá ser convertida na criptomoeda do jogo.
 * Com a alteração da proposta, foi removido o mapa antigo (de exploração).
 * Foi criado o novo mapa e iniciado o processo de criação de inimigos. 
 * Implementou-se um inimigo - cactus - com movimentação, path finding e animações para testagem inicial das mecânicas, sem as funções de dano.
