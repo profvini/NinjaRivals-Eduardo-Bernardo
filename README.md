@@ -16,7 +16,7 @@ Repositório destinado às entregas e requerimentos propostos na disciplina de M
 
 ## CheckPoint 2 - 16/11
 
-* Foram revistas as determinações do projeto.
+* Foram revistas as determinações do projeto:
 	* Para se encaixar na proposta multiplayer foi alterado o estilo de gameplay para party, buscando tanto uma interação divertida entre os players (como em muitos jogos da Nintendo) quanto um distanciamento dos comuns jogos de PvP em que os players simplesmente batalham entre si.
 	* Para alcançar essa proposta foi definida uma gameplay baseada em hordas onde um ninja consegue interferir na gameplay do outro ao mesmo tempo em que acumula pontos para si. Tudo isso contribui para que seja incentivada uma competição divertida entre ambos.
 	* No decorrer da partida, surgirão hordas de monstros simultaneamente, uma para cada ninja e o os player deverão derrotá-las para sobreviver.
