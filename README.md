@@ -48,3 +48,6 @@ Repositório destinado às entregas e requerimentos propostos na disciplina de M
 	* Gold Knight.
 	* Dark Ninja.
 * Implementação do dano do player
+* Morte dos inimigos
+* Sistema de Score 
+* Iniciado o sistema de countdown das waves
