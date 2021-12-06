@@ -49,5 +49,5 @@ Repositório destinado às entregas e requerimentos propostos na disciplina de M
 	* Dark Ninja.
 * Implementação do dano do player
 * Morte dos inimigos
-* Sistema de Score, que futuramente será utilizado em conjunto com o sistema de mint de tokens. 
+* Sistema de Score. 
 * Iniciado o sistema de countdown das waves
