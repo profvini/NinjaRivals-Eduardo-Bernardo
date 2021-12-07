@@ -49,11 +49,11 @@ Para acessar e testar o jogo, acessar a página do Ninja Rivals no Itch.io: http
 	* Gold Knight.
 	* Dark Ninja.
 * Implementação do dano do player. (10 por hit)
-* Morte dos inimigos. 
+* Morte dos inimigos.<br/> 
 Cada inimigo terá uma quantidade diferente de vida: 
 	* Cactus-20HP,
 	* Skeleton-50HP,
 	* Dark Ninja-100HP 
 	* Golden Knight-200HP.
 * Sistema de Score.
-* Iniciado o sistema de countdown das waves.
+* Iniciado o sistema de countdown das waves.(Sinal visual para mostrar aos players que a próxima wave está vindo!)
