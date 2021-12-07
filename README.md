@@ -1,5 +1,5 @@
 # NinjaRivals
-Repositório destinado às entregas e requerimentos propostos na disciplina de Multiplayer
+Repositório destinado às entregas e requerimentos propostos na disciplina de Multiplayer.<br/>
 Para acessar e testar o jogo, acessar a página do Ninja Rivals no Itch.io: https://erodrigues.itch.io/ninja-rivals.
 
 ## Autores: Bernardo Pereira e Eduardo Rodrigues
