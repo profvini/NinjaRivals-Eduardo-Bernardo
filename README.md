@@ -30,7 +30,7 @@ Para acessar e testar o jogo, acessar a página do Ninja Rivals no Itch.io: http
 ## CheckPoint 3 - 23/11
 
 * Iniciado o sistema de waves.
-* Cooldown do ataque do player <br/>
+* Cooldown do ataque do player (1s)
 * Sincronização completa e funcional:
 	* Players
 	* Ataques
@@ -43,12 +43,17 @@ Para acessar e testar o jogo, acessar a página do Ninja Rivals no Itch.io: http
 * Waves completamente implementadas e com características programáveis:
 	* Quantidade de inimigos.
 	* Tipos dos inimigos.
-	* Tempo de duração da wave.
+	* Tempo de duração da wave. (Quanto tempo levará para spawnar a próxima)
 * Novos inimigos, com animações, movimentação e path finding:
 	* Skeleton.
 	* Gold Knight.
 	* Dark Ninja.
-* Implementação do dano do player
-* Morte dos inimigos
-* Sistema de Score. 
-* Iniciado o sistema de countdown das waves
+* Implementação do dano do player. (10 por hit)
+* Morte dos inimigos. 
+Cada inimigo terá uma quantidade diferente de vida: 
+	* Cactus-20HP,
+	* Skeleton-50HP,
+	* Dark Ninja-100HP 
+	* Golden Knight-200HP.
+* Sistema de Score.
+* Iniciado o sistema de countdown das waves.
