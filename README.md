@@ -36,7 +36,7 @@ Para acessar e testar o jogo, acessar a página do Ninja Rivals no Itch.io: http
 	* Inimigos.
 
 ## CheckPoint 4 - 30/11
-* Waves completamente implementadas e com características programáveis:
+* Sistema de waves completamente implementado e com características programáveis:
 	* Quantidade de inimigos.
 	* Tipos dos inimigos.
 	* Tempo de duração da wave (Quanto tempo levará para spawnar a próxima). 
@@ -61,6 +61,7 @@ Cada inimigo terá uma quantidade diferente de vida:
 	* Skeleton - 10 dmg.
 	* Dark Ninja - 20 dmg.
 	* Golden Knight - 30 dmg.
+* Waves programadas e testadas quanto ao balanceamento da quantidade/tipo dos inimigos e quanto o tempo que os Ninjas terão até surgir a próxima wave. 
 * Tela inicial. Com botões Play e Host.
 * Tela de fim de partida. Quando o HP de um dos Ninjas chegar a zero aparecerá a tela de WIn/Lose dando a vitória para o Ninja que sobreviver até o final.
 * Sistema de Score aprimorado, após encontrarmos problemas no sistema antigo.
