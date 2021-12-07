@@ -14,7 +14,6 @@ Para acessar e testar o jogo, acessar a página do Ninja Rivals no Itch.io: http
 	- Animações do player e de ataque.
 	- Assets de arte
 	
-
 ## CheckPoint 2 - 16/11
 
 * Foram revistas as determinações do projeto:
@@ -26,7 +25,6 @@ Para acessar e testar o jogo, acessar a página do Ninja Rivals no Itch.io: http
 * Foi criado o novo mapa e iniciado o processo de criação de inimigos. 
 * Implementou-se um inimigo - cactus - com movimentação, path finding e animações para testagem inicial das mecânicas, sem as funções de dano.
 
-
 ## CheckPoint 3 - 23/11
 
 * Iniciado o sistema de waves.
@@ -36,8 +34,6 @@ Para acessar e testar o jogo, acessar a página do Ninja Rivals no Itch.io: http
 	* Ataques
 	* Animações
 	* Inimigos
-
-
 
 ## CheckPoint 4 - 30/11
 * Waves completamente implementadas e com características programáveis:
@@ -57,3 +53,5 @@ Cada inimigo terá uma quantidade diferente de vida:
 	* Golden Knight-200HP.
 * Sistema de Score.
 * Iniciado o sistema de countdown das waves.(Sinal visual para mostrar aos players que a próxima wave está vindo!)
+
+##
