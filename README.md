@@ -54,7 +54,7 @@ Cada inimigo terá uma quantidade diferente de vida:
 * Sistema de Score.
 * Iniciado o sistema de countdown das waves (Sinal visual para mostrar aos players que a próxima wave está vindo!).
 
-##CheckPoint 5 - 07/12
+## CheckPoint 5 - 07/12
 * Vida dos Players - 100HP (Agora os Ninjas podem ser mortos pelos inimigos).
 * Ataque dos inimigos:
 	* Cactus - 10 dmg.
